@@ -70,8 +70,8 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(transparent), to(#63f74f));
-  background: linear-gradient(to bottom, transparent, transparent, #63f74f);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(transparent), to(#04d9ff));
+  background: linear-gradient(to bottom, transparent, transparent, #04d9ff);
 }
 
 .sub_page .hero_area {
@@ -277,7 +277,7 @@ a:focus {
 }
 
 .slider_section .slider_heading h2 span {
-  color: #63f74f;
+  color: #04d9ff;
 }
 
 .slider_section .detail-box h1 {
@@ -374,7 +374,7 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 8px;
   background-position: center;
-  background-color: #63f74f;
+  background-color: #04d9ff;
   border-radius: 100%;
 }
 
@@ -427,7 +427,7 @@ a:focus {
   border: none;
   width: 1px;
   height: 200px;
-  background-color: #63f74f;
+  background-color: #04d9ff;
   margin: 2rem 0;
 }
 
@@ -476,8 +476,8 @@ a:focus {
   border-radius: 35px;
   color: #ffffff;
   margin: 35px auto 0 auto;
-  -webkit-box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
-          box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
+  -webkit-box-shadow: 0 0 35px 0 rgba(0, 117, 233, 0.7);
+          box-shadow: 0 0 35px 0 rgba(1, 129, 226, 0.7);
 }
 
 .about_section .about_container .detail-box a:hover {
@@ -682,7 +682,7 @@ a:focus {
   height: 75px;
   border-radius: 100%;
   text-align: center;
-  background-color: #63f74f;
+  background-color: #04d9ff;
   color: #ffffff;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -870,19 +870,19 @@ a:focus {
 }
 
 .info_section .contact_section input::-webkit-input-placeholder {
-  color: #737272;
+  color: #fffb00;
 }
 
 .info_section .contact_section input:-ms-input-placeholder {
-  color: #737272;
+  color: #fffb00;
 }
 
 .info_section .contact_section input::-ms-input-placeholder {
-  color: #737272;
+  color: #fffb00;
 }
 
 .info_section .contact_section input::placeholder {
-  color: #737272;
+  color: #fffb00;
 }
 
 .info_section .contact_section input.message-box {
